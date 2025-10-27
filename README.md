@@ -20,7 +20,6 @@ The goal is to provide a consolidated reference containing essential information
 | LVIS | 164,000 | ✅ Sim | 25 GB | Variável | Instance Segmentation | 1,203 | Benchmark para segmentação de instância de cauda longa (long-tail). | 2019 | [LVIS](https://www.lvisdataset.org/) | ✅ |
 | ADE20K | 27,000 | ✅ Sim | 3 GB | Variável | Scene Parsing | 150 | Benchmark completo para segmentação de cenas. | 2016 | [MIT CSAIL](https://ade20k.csail.mit.edu/) | ✅ |
 | GTA V Synthetic | 25,000 | ✅ Sim | 180 GB | 1914×1052 | Synthetic Semantic Segmentation | 19 | Cenas urbanas sintéticas do GTA V com anotações de pixel perfeitas. | 2016 | [VISINF](https://download.visinf.tu-darmstadt.de/data/from_games/) | ✅ |
-| **--- Medical Imaging ---** | | | | | | | | | | |
 | BraTS | 3,000 (3D) | ✅ Sim | 200 GB | 240×240×155 | 3D Medical Segmentation | 3 | Dataset de tumor cerebral com rótulos para edema, necrose e tumor ativo. | 2012 | [CBICA](https://www.med.upenn.edu/cbica/brats2018/data.html) | ❌ |
 | LiTS | 130 CT (3D) | ✅ Sim | 80 GB | 512×512×Z | 3D Medical Segmentation | 2 | Dataset para segmentação 3D de fígado e lesões. | 2017 | [CodaLab](https://competitions.codalab.org/competitions/17094) | ❌ |
 | Kvasir-SEG | 1,000 | ✅ Sim | 2 GB | 576×720 | Medical Segmentation | 1 | Dataset de pólipos colorretais com máscaras binárias. | 2020 | [Simula](https://datasets.simula.no/kvasir-seg/) | ✅ |
@@ -38,7 +37,6 @@ The goal is to provide a consolidated reference containing essential information
 | CHAOS | 80 scans (3D) | ✅ Sim | 20 GB | 512×512×Z | 3D Medical Segmentation | 4 | Scans de TC e RM para segmentação de fígado, rins e baço. | 2019 | [CHAOS](https://chaos.grand-challenge.org/) | ✅ |
 | ROCO | 81,000 | ❌ Não | 8 GB | Variável | Medical Captioning | – | Imagens de radiologia com legendas textuais. | 2018 | [GitHub](https://github.com/razorx89/roco-dataset) | ✅ |
 | MedPix | 59,000 | ❌ Não | Variável | Variável | Medical Image Database | – | Arquivo de imagens clínicas e de diagnóstico. | 1999 | [MedPix](https://medpix.nlm.nih.gov/home) | ✅ |
-| **--- Outras Categorias ---** | | | | | | | | | | |
 | NLPR | 1,000 pares | ✅ Sim | 998 MB | 640×480 | Salient Object Detection | 1 | Capturado com Microsoft Kinect, com cenas internas e externas. | – | [HyperAI](https://hyper.ai/en/datasets/17525) | ✅ |
 | PaviaU | 1 imagem | ❌ Não | 100 MB | 610×340×103 | Spectral Classification | 9 | Imagem hiperespectral capturada sobre Pavia, Itália. | – | [Kaggle](https://www.kaggle.com/datasets/syamkakarla/pavia-university-hsi) | ✅ |
 | BSDS500 | 500 | ✅ Sim | 100 MB | Variável | Contour Detection | – | Benchmark de detecção de contorno e segmentação com anotações humanas. | – | [Kaggle](https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500) | ✅ |
