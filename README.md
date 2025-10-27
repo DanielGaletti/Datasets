@@ -22,7 +22,6 @@ The full list contains over 40 datasets. Click below to expand the table.
 | LVIS | 164,000 | ✅ Yes | 25 GB | Variable | Instance Segmentation | 1,203 | Long-tail instance segmentation benchmark. | 2019 | [LVIS](https://www.lvisdataset.org/) | ✅ |
 | ADE20K | 27,000 | ✅ Yes | 3 GB | Variable | Scene Parsing | 150 | Complete scene segmentation benchmark. | 2016 | [MIT CSAIL](https://ade20k.csail.mit.edu/) | ✅ |
 | GTA V Synthetic | 25,000 | ✅ Yes | 180 GB | 1914×1052 | Synthetic Semantic Segmentation | 19 | Synthetic urban scenes from GTA V with perfect pixel annotations. | 2016 | [VISINF](https://download.visinf.tu-darmstadt.de/data/from_games/) | ✅ |
-| **--- Medical Imaging ---** | | | | | | | | | | |
 | BraTS | 3,000 (3D) | ✅ Yes | 200 GB | 240×240×155 | 3D Medical Segmentation | 3 | Brain tumor dataset with edema, necrosis, and active tumor labels. | 2012 | [CBICA](https://www.med.upenn.edu/cbica/brats2018/data.html) | ❌ |
 | LiTS | 130 CT (3D) | ✅ Yes | 80 GB | 512×512×Z | 3D Medical Segmentation | 2 | 3D liver and lesion segmentation dataset. | 2017 | [CodaLab](https://competitions.codalab.org/competitions/17094) | ❌ |
 | Kvasir-SEG | 1,000 | ✅ Yes | 2 GB | 576×720 | Medical Segmentation | 1 | Colorectal polyp dataset with binary masks. | 2020 | [Simula](https://datasets.simula.no/kvasir-seg/) | ✅ |
@@ -40,7 +39,6 @@ The full list contains over 40 datasets. Click below to expand the table.
 | CHAOS | 80 scans (3D) | ✅ Yes | 20 GB | 512×512×Z | 3D Medical Segmentation | 4 | MRI and CT scans for liver, kidneys, and spleen segmentation. | 2019 | [CHAOS](https://chaos.grand-challenge.org/) | ✅ |
 | ROCO | 81,000 | ❌ No | 8 GB | Variable | Medical Captioning | – | Radiology images paired with textual captions. | 2018 | [GitHub](https://github.com/razorx89/roco-dataset) | ✅ |
 | MedPix | 59,000 | ❌ No | Variable | Variable | Medical Image Database | – | Clinical and diagnostic image archive. | 1999 | [MedPix](https://medpix.nlm.nih.gov/home) | ✅ |
-| **--- Other Categories ---** | | | | | | | | | | |
 | NLPR | 1,000 pairs | ✅ Yes | 998 MB | 640×480 | Salient Object Detection | 1 | Captured by Microsoft Kinect with indoor and outdoor scenes. | – | [HyperAI](https://hyper.ai/en/datasets/17525) | ✅ |
 | PaviaU | 1 image | ❌ No | 100 MB | 610×340×103 | Spectral Classification | 9 | Hyperspectral image captured over Pavia, Italy. | – | [Kaggle](https://www.kaggle.com/datasets/syamkakarla/pavia-university-hsi) | ✅ |
 | BSDS500 | 500 | ✅ Yes | 100 MB | Variable | Contour Detection | – | Human-annotated segmentation and contour detection benchmark. | – | [Kaggle](https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500) | ✅ |
