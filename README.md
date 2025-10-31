@@ -1,4 +1,4 @@
-# 🧠 Image Segmentation and Computer Vision Datasets
+# Image Segmentation and Computer Vision Datasets
 
 This repository gathers a **comprehensive collection of datasets used in Computer Vision and Image Segmentation**.  
 It covers various domains such as **semantic segmentation**, **instance segmentation**, **medical imaging**, **urban scenes**, and **interactive segmentation**.
