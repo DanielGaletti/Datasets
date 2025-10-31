@@ -85,6 +85,6 @@ If you use this list or parts of it, please cite this repository:
   author = {Galetti, Daniel Martins},
   title = {Image Segmentation and Computer Vision Datasets Collection},
   year = {2025},
-  url = {https://github.com/<your-username>/<your-repo>},
+  url = {https://github.com/Danielgaletti/Datasets},
   note = {Comprehensive list of datasets for segmentation, detection, and scene understanding.}
 }
